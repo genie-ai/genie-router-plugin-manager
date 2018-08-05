@@ -1,5 +1,5 @@
 {
-  "name": "@genie-ai/genie-router-plugin-manager",
+  "name": "genie-router-plugin-manager",
   "version": "1.0.0",
   "description": "A genie-router plugin that enabling installing and managing plugins from chat.",
   "main": "index.js",
